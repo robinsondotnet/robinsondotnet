@@ -3,7 +3,7 @@ Hi 👋 My name is Robinson
 Web Developer
 -------------
 * 🌍  I'm based in Madrid, Spain
-* * ✉️  You can contact me at [robinsondotnet@hotmail.com](mailto:robinsondotnet@hotmail.com)
+* ✉️  You can contact me at [robinsondotnet@hotmail.com](mailto:robinsondotnet@hotmail.com)
 
 <a href="https://www.twitter.com/robinsondotnet" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/robinsondotnet?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.github.com/robinsondotnet" target="_blank" rel="noreferrer"><img
